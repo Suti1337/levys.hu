@@ -1,0 +1,98 @@
+body{
+    background: linear-gradient(#07051f, #931cf5);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#discord{
+    position: relative;
+    left: 100px;
+    float:left;
+    object-fit: contain;
+}
+#twitch{
+    position: relative;
+    right: 100px;
+    float: right;
+}
+#spotify{
+    position: absolute;
+    top: 60%;
+    left: 10%;
+}
+#homepage{
+    font-family: 'Trebuchet MS';
+    color: white;
+    font-size: 28px;
+    text-decoration: none;
+    position: absolute;
+    left: 46.90%;
+}
+#merch{
+    font-family: 'Trebuchet MS';
+    color: white;
+    font-size: 28px;
+    text-decoration: none;
+    position: absolute;
+    right: 30%;
+}
+#video{
+    font-family: 'Trebuchet MS';
+    color: white;
+    font-size: 28px;
+    text-decoration: none;
+    position: absolute;
+    left: 30%;
+}
+#title{
+    position: relative;
+    margin-top: 2%;
+}
+#merchtext{
+    color: white;
+    font-family:'Trebuchet MS';
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    font-size: 36px;
+}
+#legnezettebb{
+    position: absolute;
+    top: 35%;
+    right: 5%;
+    border-style: double;
+    border-color: white;
+    border: 10px;
+}
+#legujabb{
+    position: absolute;
+    top: 35%;
+    left: 5%;
+}
+#mostviewed{
+    font-family: 'Trebuchet MS';
+    color: white;
+    position: absolute;
+    right: 14.60%;
+    top: 22.8%;
+    font-size: 35px;
+}
+#new{
+    font-family: 'Trebuchet MS';
+    color: white;
+    position: absolute;
+    left: 14.60%;
+    top: 22.8%;
+    font-size: 35px;
+}
+#randomvideo{
+    position: absolute;
+    top: 90%;
+    right: 36%;
+}
+#random{
+    font-family: 'Trebuchet MS';
+    color: white;
+    position: absolute;
+    right: 48%;
+    top: 80%;
+}
